@@ -9,7 +9,7 @@ import Model from './components/Model';
 import { useEffect, useRef } from 'react';
   
 const App = () => {
-
+ 
 
   const videoRef = useRef(null);
   const videoRef2 = useRef(null);
